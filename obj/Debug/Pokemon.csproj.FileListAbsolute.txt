@@ -1,0 +1,24 @@
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Marco\Git\pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Marco\Git\pokemon\Pokemon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Pokemon\Pokemon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\bin\Debug\Pokemon.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\obj\Debug\Pokemon.exe
+C:\Users\Bruger\Documents\2nd semester\Videregående udv. af 3D apps\Git\pokemon\obj\Debug\Pokemon.pdb
